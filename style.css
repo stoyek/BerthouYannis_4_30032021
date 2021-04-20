@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #372C2C!important;
 }
 
 .container {
@@ -677,7 +677,11 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 1em;
+}
+
+q {
+    font-size: 1.2em;
 }
 
 .tight-width-whitespace {
@@ -740,6 +744,7 @@ h4 {
 }
 
 .portfolio-thumb {
+    margin: auto;
     margin-bottom: 24px;
 }
 
@@ -780,12 +785,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #372C2C!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #303030!important;
+    color: #F3976C!important;
 }
 
 .ltc-white {
