@@ -656,6 +656,14 @@ a {
   color: #372c2c !important;
 }
 
+.logo{
+  height: 40px;
+}
+
+.logo2{
+  width: 100px;
+}
+
 .container {
   max-width: 1000px;
 }
