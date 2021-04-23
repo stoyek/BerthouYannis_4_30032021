@@ -18,6 +18,12 @@ a:hover {
   cursor: pointer;
 }
 
+img {
+  vertical-align: middle;
+  width: 300px;
+  height: 300px;
+}
+
 #page-loading-blocs-notifaction {
   position: fixed;
   top: 0;
@@ -663,6 +669,7 @@ a {
 
 .logo2{
   width: 100px;
+  height: 100px;
 }
 
 .container {
